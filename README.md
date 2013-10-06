@@ -5,7 +5,7 @@ github-charts
 
 Generates an SVG of your Github contributions:
 
-![Example image](examples/chart.svg)
+![Example image](https://raw.github.com/akerl/github_chart/master/examples/chart.svg)
 
 ## Usage
 
